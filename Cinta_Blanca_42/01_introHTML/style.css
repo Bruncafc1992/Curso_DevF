@@ -1,0 +1,11 @@
+/* selector{propiedad valor} */
+
+* {background-color: chocolate  ;}
+
+img { width: 250px
+}
+
+h1{font-family: fantasy;
+text-align: center;
+color: blueviolet;
+font-size: 100px;}

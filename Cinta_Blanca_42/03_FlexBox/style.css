@@ -1,0 +1,68 @@
+.padre {
+    border: 2px solid black;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.hijo {
+
+    border: black solid 2px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+.hija {
+display: flex;
+    border:black solid 2px;
+    width: 200px;
+    height: 200px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.hijo1 { 
+    display: flex;
+    border:  black solid 2px;
+    width: 40px;
+    height: 40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly 
+}
+
+.hija1 {
+    display: flex;
+    border:  black solid 2px;
+    width: 40px;
+    height: 40px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.hijo2 {
+    display: flex;
+    flex-direction: column;
+    border: black solid 2px;
+    width: 10px;
+    height: 10px;
+}
+
+.hija2 {
+    display: flex;
+    flex-direction: row;
+    border: black solid 2px;
+    width: 10px;
+    height: 10px;
+
+}
+

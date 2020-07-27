@@ -1,0 +1,33 @@
+body {
+    
+    display: flex; 
+    flex-direction: column;
+    background-color: greenyellow;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.esconder {
+    
+}
+
+
+}
+
+.my-card {
+
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.my-img {
+
+    width: 200px;
+    height: 200px;
+}

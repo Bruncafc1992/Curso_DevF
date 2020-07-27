@@ -1,0 +1,24 @@
+body {
+
+    display: flex;
+    align-items:center;
+    background-color: rgba(8, 8, 8, 0.63);
+    justify-content: space-around;
+}
+
+.my-container{
+    justify-content: space-around;
+    align-items: space-around;
+    background-color: rgba(142, 196, 140, 0.897);
+ 
+
+}
+
+
+.my-card {
+
+    background-color: rgba(84, 184, 84, 0.63);
+    border: 2px solid rgb(134, 230, 142);
+
+
+}
