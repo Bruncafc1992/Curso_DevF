@@ -51,7 +51,7 @@ class Persona {
 }
 
 let persona1 = new Persona('Miguel', 'Gomez', 25, 'M', 60, 165, 1990, 10, 04);
-// console.log(persona1);
+    console.log(persona1);
 
 
 // 2.- Crear una clase Cuenta que tenga los siguientes atributos y métodos:
